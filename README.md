@@ -1,2 +1,2 @@
-<h1><b>Mini-Projeto Thiago</b></h1>
+<h1><i>Mini-Projeto</i></h1>
 <h2>Criando uma mini Página</h2>
